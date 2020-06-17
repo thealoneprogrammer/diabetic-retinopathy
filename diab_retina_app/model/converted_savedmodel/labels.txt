@@ -1,0 +1,5 @@
+0 no_dir
+1 mild
+2 moderate
+3 sever
+4 proliferative
