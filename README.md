@@ -39,3 +39,5 @@ The same images you have sent have been used for training
 You are free to edit the front-end/processing logic as per your need
 
 ===================================================
+
+## [Download project report here](https://buymeacoffee.com/thealoneprogrammer/e/276462)
