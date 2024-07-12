@@ -40,4 +40,4 @@ You are free to edit the front-end/processing logic as per your need
 
 ===================================================
 
-## [Download project report here](https://buymeacoffee.com/thealoneprogrammer/e/276462](https://bit.ly/4bI6r2q)
+## [Download project report here](https://bit.ly/4bI6r2q)
